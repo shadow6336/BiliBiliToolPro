@@ -45,7 +45,7 @@ bilibli_tool
 `my_crontab`的文件内容请拷贝 [默认my_crontab](../docker/sample/my_crontab) 内容，注意末尾有个换行不要丢了。
 
 ### 2.3. 启动并运行容器
-在当前目录（有docker-compose.yml的目录）执行启动容器命令：`docker compose up -d`。
+在当前目录（有docker-compose.yml的目录）执行启动容器命令：`docker-compose up -d`。
 
 提示成功的话，即表示容器启动成功。
 
